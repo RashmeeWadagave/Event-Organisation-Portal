@@ -1,6 +1,42 @@
-# Event
+# MEAN Stack Web Application - Event Organisation
+
+This repository contains the code for a web application named "Event Organisation" developed using the MEAN stack (MongoDB, Express Js, Angular, Node Js). The application facilitates interaction between students and institutes by providing a platform for sharing events, projects, and information.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0-rc.0.
+
+## Features
+
+### MEAN Stack Components: 
+  Utilizes MongoDB, Express Js, Angular, and Node Js for a full-stack web development experience. 
+### Authentication: 
+Implements Angular Auth Guard and JWT (Json Web Token) for secure login credentials. 
+### Dynamic Web Application: 
+Enables dynamic and interactive client and server-side components. 
+###Responsive Design: 
+Bootstrap is used for an attractive and responsive graphical user interface.
+
+## Technologies Used
+
+    Angular 12
+    Node Js 14.17.3
+    Express Js 4.17.12
+    MongoDB Compass 1.30.1
+
+## Installation
+1. Clone the repository.
+Install dependencies for the client side using Angular CLI: 
+    ``` bash
+    cd ClientApp && npm install
+    ```
+2. Install dependencies for the server side:
+   ```bash
+     npm install
+   ```
+3. Configure MongoDB connection in the server's app.js file.
+4. Run the application:
+   ```bash
+   npm start
+   ```
 
 ## Development server
 
