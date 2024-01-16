@@ -4,6 +4,8 @@ This repository contains the code for a web application named "Event Organisatio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0-rc.0.
 
+This project is also presented as a research paper at IEEE conference. [Link](https://ieeexplore.ieee.org/document/9760955)
+
 ## Features
 
 ### MEAN Stack Components: 
