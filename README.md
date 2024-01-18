@@ -14,7 +14,7 @@ This project is also presented as a research paper at IEEE conference. [Link](ht
 Implements Angular Auth Guard and JWT (Json Web Token) for secure login credentials. 
 ### Dynamic Web Application: 
 Enables dynamic and interactive client and server-side components. 
-###Responsive Design: 
+### Responsive Design: 
 Bootstrap is used for an attractive and responsive graphical user interface.
 
 ## Technologies Used
