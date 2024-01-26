@@ -6,6 +6,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project is also presented as a research paper at IEEE conference. [Link](https://ieeexplore.ieee.org/document/9760955)
 
+## Contents
+### Features
+### Technologies Used
+### Installation
+### Development server
+### Code scaffolding
+### Build
+### Running unit tests
+
 ## Features
 
 ### MEAN Stack Components: 
